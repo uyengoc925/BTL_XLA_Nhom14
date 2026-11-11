@@ -309,18 +309,6 @@ def main():
         print("Đã lưu kết quả:", OUTPUT_CSV)
 
 if __name__ == "__main__":
-
-    clean = load_gray(
-        CLEAN_DIR / "clean_cameraman.png"
-    )
-
-    noisy = load_gray(
-        NOISY_DIR / "sin_single" /
-        "clean_cameraman__sin_single.png"
-    )
-
-    print("MSE:", calculate_mse(clean, noisy))
-    print("RMSE:", calculate_rmse(clean, noisy))
-    print("SNR:", calculate_snr(clean, noisy))
-    print("PSNR:", calculate_psnr(clean, noisy))
-    print("SSIM:", calculate_ssim(clean, noisy))
+    main()
+   
+   

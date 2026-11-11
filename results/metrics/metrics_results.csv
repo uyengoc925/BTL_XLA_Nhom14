@@ -1,0 +1,3 @@
+﻿Image,Noise,Method,MSE,RMSE,SNR_dB,PSNR_dB,SSIM,Eres_percent
+clean_cameraman,sin_single,Noisy,413.1312713623047,20.325630897030102,16.387483310622876,21.96992291366799,0.43785089687569334,100.0
+clean_cameraman,sin_single,Filtered,0.0,0.0,inf,inf,1.0,0.655615080798601
