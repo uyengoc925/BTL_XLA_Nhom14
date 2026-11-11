@@ -1,0 +1,25 @@
+﻿anh_sach,kich_thuoc,nhieu,loai,tham_so,seed,"dinh_ky_vong_(hang,cot)_0based_pho_dich_tam",kiem_tra_dinh,MSE_vs_sach,PSNR_vs_sach_dB,file
+clean_cameraman,256x256,sin_single,sine,"{'amp': 30, 'periods': [(16, 16)], 'phase': 0.6}",2026,"[(112, 112), (144, 144)]",OK,413.131,21.97,noisy_synthetic\sin_single\clean_cameraman__sin_single.png
+clean_cameraman,256x256,sin_multi,sine,"{'amp': 20, 'periods': [(16, 16), (8, 16)], 'phase': 0.6}",2027,"[(96, 112), (112, 112), (144, 144), (160, 144)]",OK,370.476,22.443,noisy_synthetic\sin_multi\clean_cameraman__sin_multi.png
+clean_cameraman,256x256,stripes_h,sine,"{'amp': 25, 'periods': [(16, None)], 'phase': 0.6}",2028,"[(112, 128), (144, 128)]",OK,297.793,23.392,noisy_synthetic\stripes_h\clean_cameraman__stripes_h.png
+clean_cameraman,256x256,stripes_v,sine,"{'amp': 25, 'periods': [(None, 16)], 'phase': 0.6}",2029,"[(128, 112), (128, 144)]",OK,297.851,23.391,noisy_synthetic\stripes_v\clean_cameraman__stripes_v.png
+clean_cameraman,256x256,gaussian,gaussian,{'sigma': 20},2030,,n/a,370.479,22.443,noisy_synthetic\gaussian\clean_cameraman__gaussian.png
+clean_cameraman,256x256,saltpepper,saltpepper,{'p': 0.05},2031,,n/a,1033.366,17.988,noisy_synthetic\saltpepper\clean_cameraman__saltpepper.png
+clean_crowd,512x512,sin_single,sine,"{'amp': 30, 'periods': [(16, 16)], 'phase': 0.6}",2126,"[(224, 224), (288, 288)]",OK,426.914,21.827,noisy_synthetic\sin_single\clean_crowd__sin_single.png
+clean_crowd,512x512,sin_multi,sine,"{'amp': 20, 'periods': [(16, 16), (8, 16)], 'phase': 0.6}",2127,"[(192, 224), (224, 224), (288, 288), (320, 288)]",OK,381.159,22.32,noisy_synthetic\sin_multi\clean_crowd__sin_multi.png
+clean_crowd,512x512,stripes_h,sine,"{'amp': 25, 'periods': [(16, None)], 'phase': 0.6}",2128,"[(224, 256), (288, 256)]",OK,306.145,23.272,noisy_synthetic\stripes_h\clean_crowd__stripes_h.png
+clean_crowd,512x512,stripes_v,sine,"{'amp': 25, 'periods': [(None, 16)], 'phase': 0.6}",2129,"[(256, 224), (256, 288)]",OK,305.485,23.281,noisy_synthetic\stripes_v\clean_crowd__stripes_v.png
+clean_crowd,512x512,gaussian,gaussian,{'sigma': 20},2130,,n/a,380.502,22.327,noisy_synthetic\gaussian\clean_crowd__gaussian.png
+clean_crowd,512x512,saltpepper,saltpepper,{'p': 0.05},2131,,n/a,1036.818,17.974,noisy_synthetic\saltpepper\clean_crowd__saltpepper.png
+clean_woman,512x512,sin_single,sine,"{'amp': 30, 'periods': [(16, 16)], 'phase': 0.6}",2226,"[(224, 224), (288, 288)]",OK,329.951,22.946,noisy_synthetic\sin_single\clean_woman__sin_single.png
+clean_woman,512x512,sin_multi,sine,"{'amp': 20, 'periods': [(16, 16), (8, 16)], 'phase': 0.6}",2227,"[(192, 224), (224, 224), (288, 288), (320, 288)]",OK,295.853,23.42,noisy_synthetic\sin_multi\clean_woman__sin_multi.png
+clean_woman,512x512,stripes_h,sine,"{'amp': 25, 'periods': [(16, None)], 'phase': 0.6}",2228,"[(224, 256), (288, 256)]",OK,237.424,24.376,noisy_synthetic\stripes_h\clean_woman__stripes_h.png
+clean_woman,512x512,stripes_v,sine,"{'amp': 25, 'periods': [(None, 16)], 'phase': 0.6}",2229,"[(256, 224), (256, 288)]",OK,237.365,24.377,noisy_synthetic\stripes_v\clean_woman__stripes_v.png
+clean_woman,512x512,gaussian,gaussian,{'sigma': 20},2230,,n/a,294.832,23.435,noisy_synthetic\gaussian\clean_woman__gaussian.png
+clean_woman,512x512,saltpepper,saltpepper,{'p': 0.05},2231,,n/a,1292.207,17.017,noisy_synthetic\saltpepper\clean_woman__saltpepper.png
+clean_characters,688x688,sin_single,sine,"{'amp': 30, 'periods': [(16, 16)], 'phase': 0.6}",2326,"[(301, 301), (387, 387)]",OK,384.985,22.276,noisy_synthetic\sin_single\clean_characters__sin_single.png
+clean_characters,688x688,sin_multi,sine,"{'amp': 20, 'periods': [(16, 16), (8, 16)], 'phase': 0.6}",2327,"[(258, 301), (301, 301), (387, 387), (430, 387)]",OK,320.89,23.067,noisy_synthetic\sin_multi\clean_characters__sin_multi.png
+clean_characters,688x688,stripes_h,sine,"{'amp': 25, 'periods': [(16, None)], 'phase': 0.6}",2328,"[(301, 344), (387, 344)]",OK,286.142,23.565,noisy_synthetic\stripes_h\clean_characters__stripes_h.png
+clean_characters,688x688,stripes_v,sine,"{'amp': 25, 'periods': [(None, 16)], 'phase': 0.6}",2329,"[(344, 301), (344, 387)]",OK,285.895,23.569,noisy_synthetic\stripes_v\clean_characters__stripes_v.png
+clean_characters,688x688,gaussian,gaussian,{'sigma': 20},2330,,n/a,312.85,23.177,noisy_synthetic\gaussian\clean_characters__gaussian.png
+clean_characters,688x688,saltpepper,saltpepper,{'p': 0.05},2331,,n/a,1389.257,16.703,noisy_synthetic\saltpepper\clean_characters__saltpepper.png

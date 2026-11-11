@@ -1,0 +1,11 @@
+﻿file_goc,duong_dan,mode_goc,kich_thuoc,dtype_goc,min_goc,max_goc,thu_muc_dich,ten_moi,ghi_chu
+Fig0222(b)(cameraman).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_CH02_Original_Images\DIP3E_Original_Images_CH02\Fig0222(b)(cameraman).tif,L,256x256,uint8,7,253,clean,clean_cameraman,
+Fig0222(c)(crowd).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_CH02_Original_Images\DIP3E_Original_Images_CH02\Fig0222(c)(crowd).tif,L,512x512,uint8,2,255,clean,clean_crowd,
+Fig0427(a)(woman).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0427(a)(woman).tif,L,512x512,uint8,0,255,clean,clean_woman,
+Fig0441(a)(characters_test_pattern).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0441(a)(characters_test_pattern).tif,L,688x688,uint8,0,255,clean,clean_characters,kích thước không phải lũy thừa 2
+Fig0227(a)(washington_infrared).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_CH02_Original_Images\DIP3E_Original_Images_CH02\Fig0227(a)(washington_infrared).tif,L,1024x1024,uint8,0,254,clean,clean_washington_ir,
+Fig0429(a)(blown_ic).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0429(a)(blown_ic).tif,L,906x678,uint8,0,255,demo_theory,demo_blown_ic,kích thước không phải lũy thừa 2
+Fig0424(a)(rectangle).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0424(a)(rectangle).tif,L,1024x1024,uint8,0,255,demo_theory,demo_rectangle,
+Fig0425(a)(translated_rectangle).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0425(a)(translated_rectangle).tif,L,512x512,uint8,0,255,demo_theory,demo_translated_rectangle,
+Fig0464(a)(car_75DPI_Moire).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0464(a)(car_75DPI_Moire).tif,L,168x246,uint8,0,255,real_noisy,real_car_moire,kích thước không phải lũy thừa 2
+Fig0465(a)(cassini).tif,D:\UYEN\Nam4\XLA\BT CODE\DIP3E_Original_Images_CH04\Fig0465(a)(cassini).tif,L,674x674,uint8,0,255,real_noisy,real_cassini,kích thước không phải lũy thừa 2
